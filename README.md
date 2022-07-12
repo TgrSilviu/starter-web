@@ -15,3 +15,7 @@ This is a simple project, deployment can be on any webserver
 or even local file system
 
 ## How to Contribute
+
+###COPYRIGHT
+
+2022 git training
